@@ -1,8 +1,6 @@
 <p>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/600px-Octicons-mark-github.svg.png" align="right" width="25px">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/600px-Octicons-mark-github.svg.png" align="right" width="50px">
 </p>
-
-
 
 # Curso de Git/GitHub 
 
